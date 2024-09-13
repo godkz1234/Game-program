@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "program", "program.vcxproj"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class1th (GetAsynckeyState)", "..\Class1th (GetAsynckeyState)\Class1th (GetAsynckeyState).vcxproj", "{4E1ED991-1C4E-436E-BA9F-929F467CC0AF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class2th (Double Buffering)", "..\Class2th (Double Buffering)\Class2th (Double Buffering).vcxproj", "{EA56DC72-0C88-42D7-BA60-E780042E210F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{4E1ED991-1C4E-436E-BA9F-929F467CC0AF}.Release|x64.Build.0 = Release|x64
 		{4E1ED991-1C4E-436E-BA9F-929F467CC0AF}.Release|x86.ActiveCfg = Release|Win32
 		{4E1ED991-1C4E-436E-BA9F-929F467CC0AF}.Release|x86.Build.0 = Release|Win32
+		{EA56DC72-0C88-42D7-BA60-E780042E210F}.Debug|x64.ActiveCfg = Debug|x64
+		{EA56DC72-0C88-42D7-BA60-E780042E210F}.Debug|x64.Build.0 = Debug|x64
+		{EA56DC72-0C88-42D7-BA60-E780042E210F}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA56DC72-0C88-42D7-BA60-E780042E210F}.Debug|x86.Build.0 = Debug|Win32
+		{EA56DC72-0C88-42D7-BA60-E780042E210F}.Release|x64.ActiveCfg = Release|x64
+		{EA56DC72-0C88-42D7-BA60-E780042E210F}.Release|x64.Build.0 = Release|x64
+		{EA56DC72-0C88-42D7-BA60-E780042E210F}.Release|x86.ActiveCfg = Release|Win32
+		{EA56DC72-0C88-42D7-BA60-E780042E210F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
