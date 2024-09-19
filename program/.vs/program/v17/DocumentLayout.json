@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E2BD4CA-157F-4FC7-9F78-89462CB87496}|program.vcxproj|C:\\Users\\dddde\\Desktop\\\uD559\uC6D0\uC218\uC5C5 (\uD504\uB85C\uADF8\uB798\uBC0D)\\Game-program\\program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7E2BD4CA-157F-4FC7-9F78-89462CB87496}|program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA56DC72-0C88-42D7-BA60-E780042E210F}|..\\Class2th (Double Buffering)\\Class2th (Double Buffering).vcxproj|C:\\Users\\dddde\\Desktop\\\uD559\uC6D0\uC218\uC5C5 (\uD504\uB85C\uADF8\uB798\uBC0D)\\Game-program\\Class2th (Double Buffering)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,20 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\\uD559\uC6D0\uC218\uC5C5 (\uD504\uB85C\uADF8\uB798\uBC0D)\\Game-program\\Class2th (Double Buffering)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class2th (Double Buffering)\\Source.c",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\\uD559\uC6D0\uC218\uC5C5 (\uD504\uB85C\uADF8\uB798\uBC0D)\\Game-program\\Class2th (Double Buffering)\\Source.c",
-              "RelativeToolTip": "..\\Class2th (Double Buffering)\\Source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-13T12:39:33.904Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -39,9 +24,9 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\dddde\\Desktop\\\uD559\uC6D0\uC218\uC5C5 (\uD504\uB85C\uADF8\uB798\uBC0D)\\Game-program\\program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-10T11:09:42.541Z",
+              "WhenOpened": "2024-09-19T12:42:54.558Z",
               "EditorCaption": ""
             }
           ]
