@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E2BD4CA-157F-4FC7-9F78-89462CB87496}|program.vcxproj|C:\\Users\\dddde\\Desktop\\\uD559\uC6D0\uC218\uC5C5 (\uD504\uB85C\uADF8\uB798\uBC0D)\\Game-program\\program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7E2BD4CA-157F-4FC7-9F78-89462CB87496}|program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C230EE02-DC81-463D-95FB-961EEEFCC70F}|..\\Class4th (File Input and Output)\\Class4th (File Input and Output).vcxproj|C:\\Users\\dddde\\Desktop\\\uD559\uC6D0\uC218\uC5C5 (\uD504\uB85C\uADF8\uB798\uBC0D)\\Game-program\\Class4th (File Input and Output)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +17,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\\uD559\uC6D0\uC218\uC5C5 (\uD504\uB85C\uADF8\uB798\uBC0D)\\Game-program\\Class4th (File Input and Output)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class4th (File Input and Output)\\Source.c",
+              "ToolTip": "C:\\Users\\dddde\\Desktop\\\uD559\uC6D0\uC218\uC5C5 (\uD504\uB85C\uADF8\uB798\uBC0D)\\Game-program\\Class4th (File Input and Output)\\Source.c",
+              "RelativeToolTip": "..\\Class4th (File Input and Output)\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T12:40:54.887Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\dddde\\Desktop\\\uD559\uC6D0\uC218\uC5C5 (\uD504\uB85C\uADF8\uB798\uBC0D)\\Game-program\\program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-19T12:42:54.558Z",
               "EditorCaption": ""
